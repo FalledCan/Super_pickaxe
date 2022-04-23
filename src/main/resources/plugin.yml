@@ -1,0 +1,11 @@
+name: Super_Pickaxe
+version: '${project.version}'
+main: com.github.falledcan.super_pickaxe.Super_Pickaxe
+api-version: 1.18
+authors: [ FalledCan ]
+description: Fresh code that might fall in love with blocks 3x3
+website: github.com/FalledCan
+commands:
+  gettool:
+    usage: /gettool
+    description: www
