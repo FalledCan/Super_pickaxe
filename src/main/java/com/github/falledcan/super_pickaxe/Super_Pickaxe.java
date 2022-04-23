@@ -62,7 +62,7 @@ public final class Super_Pickaxe extends JavaPlugin {
         ShapedRecipe recipe2 = new ShapedRecipe(key2,item2);
         recipe2.shape("ABA","BCB","ABA");
         recipe2.setIngredient('A',Material.NETHERITE_INGOT);
-        recipe2.setIngredient('B',Material.DIAMOND_PICKAXE);
+        recipe2.setIngredient('B',Material.DIAMOND_BLOCK);
         recipe2.setIngredient('C',Material.NETHERITE_PICKAXE);
         Bukkit.addRecipe(recipe2);
     }
